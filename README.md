@@ -19,4 +19,4 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mesure73l&show_icons=true&theme=highcontrast&locale=en" alt="mesure73l" /> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesure73l&theme=highcontrast" alt="mesure73l" /></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mesure73l&show_icons=true&theme=highcontrast&locale=en" alt="mesure73l" /> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesure73l&theme=highcontrast" alt="mesure73l" /></a></p>
