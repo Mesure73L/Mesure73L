@@ -3,6 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesure73l&theme=gitdimmed" alt="mesure73l" /></a> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mesure73l&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mesure73l" /> </p>
+
 ---
 
 - 🌱 I’m currently learning: **CSS Frameworks, Accessible & Sustainable Web Development**
