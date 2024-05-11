@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mesure73L</h1>
-<h3 align="center">A front-end website developer with over 3 years of experience.</h3>
+<h1 align="center">Hi, I'm Mesure73L!</h1>
+<h3 align="center">I'm a front-end website developer with over 3 years of experience.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesure73l" alt="mesure73l" /></a> </p>
 
