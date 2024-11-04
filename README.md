@@ -5,14 +5,22 @@
 
 ---
 
-- 🌱 I’m currently learning: **CSS Frameworks, Accessible & Sustainable Web Development**
+<img src="https://mesure.x10.mx/images/gh-prof-readme.png" align="center">
 
-- 👨‍💻 All of my projects are available at: **Coming soon!**
+<details>
+  <summary>Copyable</summary>
+  Note: this may not be up to date
+  
+  **Currently learning:** Web accessibility, server-side applications and socket.io, UI/UX design
+  
+  **View my projects at:** My GitHub profile @Mesure73L, All my good projects are on public repositories, [github.com/Mesure73L?tab=repositories](https://github.com/Mesure73L?tab=repositories)
 
-- 📝 I regularly write articles on: **Coming soon!**
+  **Writing articles on:** Coming soon!
 
-- 📫 How to reach me: **Discord @mesure**
-</p>
+  **How to reach me:** @mesure on Discord, I probably won't accept your friend request, however, my DMs are open
+</details>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
