@@ -1,8 +1,8 @@
-import { promises as fs } from "fs";
+import {promises as fs} from "fs";
 import Mustache from "mustache";
 import fetch from "node-fetch";
 
-const { readFile, writeFile } = fs;
+const {readFile, writeFile} = fs;
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
@@ -19,7 +19,7 @@ async function updateReadme() {
 let DATA = {
     emoji: "👋",
     greeting: "Hello",
-    bio: "Couldn't fetch",
+    bio: undefined,
     date: new Date().toLocaleDateString("en-US", {
         weekday: "long",
         month: "long",
@@ -38,7 +38,11 @@ let DATA = {
     repoCount: "Couldn't fetch",
     starCount: "Couldn't fetch",
     givenStarCount: "Couldn't fetch",
-    error: "No errors. Hooray!"
+    error: "No errors. Hooray!",
+    quote: {
+        q: "I love when a good ol' problem occurs!",
+        a: "Me"
+    }
 };
 
 if (Math.random() < 0.00001) {
@@ -109,6 +113,11 @@ try {
         return starredRepos.length;
     }
 
+    async function getQuote() {
+        const response = await fetch(`https://zenquotes.io/api/random`);
+        return response.json();
+    }
+
     getBio("Mesure73L").then(bio => {
         DATA.bio = bio;
         updateReadme();
@@ -160,6 +169,12 @@ try {
 
     getGivenStarCount("Mesure73L").then(givenStarCount => {
         DATA.givenStarCount = givenStarCount;
+        updateReadme();
+    });
+
+    getQuote().then(quote => {
+        DATA.quote.q = quote[0].q.trim();
+        DATA.quote.a = quote[0].a.trim();
         updateReadme();
     });
 } catch (error) {
