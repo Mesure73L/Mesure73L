@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 2 days ago in Mesure73L&#x2F;Mesure73L
+- 🧑‍💻 Latest contribution: 1 days ago in Mesure73L&#x2F;Mesure73L
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 2 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Employ your time in improving yourself by other men&#39;s writings, so that you shall gain easily what others have labored hard for."
- \- Socrates
+"There is no significance in life without struggle."
+ \- Lolly Daskal
 
 ---
 
-<p align="center"><i>Last updated Friday, December 20, 2024, 20:26:50 UTC</i></p>
+<p align="center"><i>Last updated Saturday, December 21, 2024, 24:37:32 UTC</i></p>
