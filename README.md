@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 1 days ago in Mesure73L&#x2F;Mesure73L
+- 🧑‍💻 Latest contribution: 2 days ago in Mesure73L&#x2F;Mesure73L
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 2 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Without the confidence, nothing can be accomplished."
- \- Sathya Sai Baba
+"If you want to see things just as they are, then you yourself must practice just as you are."
+ \- Dogen
 
 ---
 
-<p align="center"><i>Last updated Saturday, December 21, 2024, 12:12:01 UTC</i></p>
+<p align="center"><i>Last updated Sunday, December 22, 2024, 24:39:13 UTC</i></p>
