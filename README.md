@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Not everything that weighs you down is yours to carry."
- \- Unknown
+"Everyone is a moon, and has a dark side which he never shows to anybody."
+ \- Mark Twain
 
 ---
 
-<p align="center"><i>Last updated Tuesday, December 24, 2024, 24:35:42 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, December 24, 2024, 12:13:18 UTC</i></p>
