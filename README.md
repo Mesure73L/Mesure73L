@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"You are always your own best guru, your own best teacher, the answers are always inside you."
- \- Sathya Sai Baba
+"Knowing your own darkness is the best method for dealing with the darknesses of other people."
+ \- Carl Jung
 
 ---
 
-<p align="center"><i>Last updated Thursday, December 26, 2024, 24:37:35 UTC</i></p>
+<p align="center"><i>Last updated Thursday, December 26, 2024, 12:13:05 UTC</i></p>
