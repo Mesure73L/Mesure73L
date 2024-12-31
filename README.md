@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"To the mind that is still, the whole universe surrenders."
- \- Lao Tzu
+"Decide what your truth is. Then live it."
+ \- Kamal Ravikant
 
 ---
 
-<p align="center"><i>Last updated Tuesday, December 31, 2024, 24:36:16 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, December 31, 2024, 12:12:59 UTC</i></p>
