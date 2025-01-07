@@ -11,8 +11,8 @@ async function updateReadme() {
         const data = await readFile(MUSTACHE_MAIN_DIR);
         const output = Mustache.render(data.toString(), DATA);
         await writeFile("README.md", output);
-    } catch (err) {
-        console.error(err);
+    } catch (e) {
+        console.error(e);
     }
 }
 
@@ -45,9 +45,18 @@ let DATA = {
     }
 };
 
+let errors = [];
+
 if (Math.random() < 0.00001) {
     DATA.emoji = "🔫";
     DATA.greeting = "Goodbye";
+}
+
+function error(e) {
+    console.error(e);
+    errors.push(e);
+    DATA.error = "\n\n".join(errors);
+    updateReadme();
 }
 
 try {
@@ -121,6 +130,9 @@ try {
     getBio("Mesure73L").then(bio => {
         DATA.bio = bio;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.bio = undefined;
     });
 
     getLatestContribution("Mesure73L").then(latestContribution => {
@@ -145,41 +157,62 @@ try {
         DATA.latestContribution += ` in ${latestContribution.repo}`;
 
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.latestContribution = "Couldn't fetch";
     });
 
     getMostContributedProject("Mesure73L").then(mostContributed => {
         DATA.mostContributed = mostContributed;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.mostContributed = "Couldn't fetch";
     });
 
     getGithubTime("Mesure73L").then(githubTime => {
         DATA.githubTime = githubTime;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.githubTime = "Couldn't fetch";
     });
 
     getRepoCount("Mesure73L").then(repoCount => {
         DATA.repoCount = repoCount;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.repoCount = "Couldn't fetch";
     });
 
     getStarCount("Mesure73L").then(starCount => {
         DATA.starCount = starCount;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.starCount = "Couldn't fetch";
     });
 
     getGivenStarCount("Mesure73L").then(givenStarCount => {
         DATA.givenStarCount = givenStarCount;
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.givenStarCount = "Couldn't fetch";
     });
 
     getQuote().then(quote => {
         DATA.quote.q = quote[0].q.trim();
         DATA.quote.a = quote[0].a.trim();
         updateReadme();
+    }).catch(e => {
+        error(e);
+        DATA.quote.q = "I love when a good ol' problem occurs!";
+        DATA.quote.a = "Me";
     });
-} catch (error) {
-    DATA.error = error;
-    updateReadme();
+} catch (e) {
+    error(e);
 }
 
 updateReadme();
