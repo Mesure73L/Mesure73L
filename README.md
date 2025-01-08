@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 1 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 1 days ago in Mesure73L&#x2F;Mesure73L
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Everything is created twice, first in the mind and then in reality."
- \- Robin Sharma
+"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."
+ \- Bhagavad Gita
 
 ---
 
-<p align="center"><i>Last updated Tuesday, January 7, 2025, 16:17:39 UTC</i></p>
+<p align="center"><i>Last updated Wednesday, January 8, 2025, 24:38:34 UTC</i></p>
