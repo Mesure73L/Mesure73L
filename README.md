@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Some of the greater things in life are unseen; that&#39;s why you close your eyes when you kiss, cry, or dream."
- \- Unknown
+"Talk sense to a fool and he calls you foolish."
+ \- Euripides
 
 ---
 
-<p align="center"><i>Last updated Saturday, January 11, 2025, 24:36:09 UTC</i></p>
+<p align="center"><i>Last updated Saturday, January 11, 2025, 12:11:55 UTC</i></p>
