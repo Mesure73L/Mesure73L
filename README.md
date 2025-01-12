@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"One must be deeply aware of the impermanence of the world."
- \- Dogen
+"You cannot teach a crab to walk straight."
+ \- Aristophanes
 
 ---
 
-<p align="center"><i>Last updated Sunday, January 12, 2025, 24:40:34 UTC</i></p>
+<p align="center"><i>Last updated Sunday, January 12, 2025, 12:11:50 UTC</i></p>
