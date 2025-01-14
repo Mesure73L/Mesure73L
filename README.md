@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Everything you&#39;ve ever wanted is on the other side of fear."
- \- George Addair
+"If you believe you can, you can. If you believe you can&#39;t, then, well you can&#39;t."
+ \- Celestine Chua
 
 ---
 
-<p align="center"><i>Last updated Tuesday, January 14, 2025, 24:34:55 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, January 14, 2025, 12:12:52 UTC</i></p>
