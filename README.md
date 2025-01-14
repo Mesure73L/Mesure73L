@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 5 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 6 days ago in Mesure73L&#x2F;AppleDeck
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Constantly think about how you could be doing things better."
- \- Elon Musk
+"Everything you&#39;ve ever wanted is on the other side of fear."
+ \- George Addair
 
 ---
 
-<p align="center"><i>Last updated Monday, January 13, 2025, 12:14:44 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, January 14, 2025, 24:34:55 UTC</i></p>
