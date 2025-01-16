@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Constantly think about how you could be doing things better."
- \- Elon Musk
+"The more something threatens your identity, the more you will avoid it."
+ \- Mark Manson
 
 ---
 
-<p align="center"><i>Last updated Thursday, January 16, 2025, 24:34:46 UTC</i></p>
+<p align="center"><i>Last updated Thursday, January 16, 2025, 12:12:54 UTC</i></p>
