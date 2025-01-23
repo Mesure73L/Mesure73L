@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 14 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 15 days ago in Mesure73L&#x2F;AppleDeck
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."
- \- Zig Ziglar
+"Dream big and dare to fail."
+ \- Norman Vaughan
 
 ---
 
-<p align="center"><i>Last updated Wednesday, January 22, 2025, 12:13:18 UTC</i></p>
+<p align="center"><i>Last updated Thursday, January 23, 2025, 24:35:10 UTC</i></p>
