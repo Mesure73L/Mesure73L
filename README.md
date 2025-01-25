@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 16 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 17 days ago in Mesure73L&#x2F;AppleDeck
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"It is useless to attempt to reason a man out of a thing he was never reasoned into."
- \- Jonathan Swift
+"Learn the rules like a pro, so you can break them like an artist."
+ \- Pablo Picasso
 
 ---
 
-<p align="center"><i>Last updated Friday, January 24, 2025, 12:12:54 UTC</i></p>
+<p align="center"><i>Last updated Saturday, January 25, 2025, 24:35:37 UTC</i></p>
