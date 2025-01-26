@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Formal education will make you a living, self-education will make you a fortune."
- \- Jim Rohn
+"If we have no peace, it is because we have forgotten that we belong to each other."
+ \- Mother Teresa
 
 ---
 
-<p align="center"><i>Last updated Sunday, January 26, 2025, 24:36:11 UTC</i></p>
+<p align="center"><i>Last updated Sunday, January 26, 2025, 12:11:06 UTC</i></p>
