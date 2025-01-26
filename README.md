@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 17 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 18 days ago in Mesure73L&#x2F;AppleDeck
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Be thankful for what you have; you&#39;ll end up having more. If you concentrate on what you don&#39;t have, you will never, ever have enough."
- \- Oprah Winfrey
+"Formal education will make you a living, self-education will make you a fortune."
+ \- Jim Rohn
 
 ---
 
-<p align="center"><i>Last updated Saturday, January 25, 2025, 12:11:11 UTC</i></p>
+<p align="center"><i>Last updated Sunday, January 26, 2025, 24:36:11 UTC</i></p>
