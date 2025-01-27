@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"It&#39;s the unknown we fear when we look upon death and darkness, nothing more."
- \- Albus Dumbledore
+"To be alive - is Power."
+ \- Emily Dickinson
 
 ---
 
-<p align="center"><i>Last updated Monday, January 27, 2025, 24:36:25 UTC</i></p>
+<p align="center"><i>Last updated Monday, January 27, 2025, 12:13:48 UTC</i></p>
