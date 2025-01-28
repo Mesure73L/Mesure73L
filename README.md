@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Do not go where the path may lead, go instead where there is no path and leave a trail."
- \- Ralph Waldo Emerson
+"All our knowledge has its origins in our perceptions."
+ \- Leonardo da Vinci
 
 ---
 
-<p align="center"><i>Last updated Tuesday, January 28, 2025, 24:36:41 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, January 28, 2025, 12:13:17 UTC</i></p>
