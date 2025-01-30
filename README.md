@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Nothing can dim the light which shines from within."
- \- Maya Angelou
+"All you need is passion. If you have a passion for something, you&#39;ll create the talent."
+ \- Yanni
 
 ---
 
-<p align="center"><i>Last updated Thursday, January 30, 2025, 24:34:22 UTC</i></p>
+<p align="center"><i>Last updated Thursday, January 30, 2025, 12:13:24 UTC</i></p>
