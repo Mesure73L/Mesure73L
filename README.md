@@ -10,7 +10,7 @@ I am a front-end developer, however I am learning back-end development. I mainly
 
 Here's my stats:
 
-- 🧑‍💻 Latest contribution: 24 days ago in Mesure73L&#x2F;AppleDeck
+- 🧑‍💻 Latest contribution: 25 days ago in Mesure73L&#x2F;AppleDeck
 - 🖥 My IP address: Why the hell do you want this?
 - 🤝 Most contributed project this month: AppleDeck
 - ⏳ How long I've been on the hub: 2 years and 3 months
@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"I am not absentminded. It is the presence of mind that makes me unaware of everything else."
- \- Gilbert Chesterton
+"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
+ \- Steve Jobs
 
 ---
 
-<p align="center"><i>Last updated Saturday, February 1, 2025, 12:11:15 UTC</i></p>
+<p align="center"><i>Last updated Sunday, February 2, 2025, 24:37:35 UTC</i></p>
