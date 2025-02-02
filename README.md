@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
- \- Steve Jobs
+"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."
+ \- Aristotle
 
 ---
 
-<p align="center"><i>Last updated Sunday, February 2, 2025, 24:37:35 UTC</i></p>
+<p align="center"><i>Last updated Sunday, February 2, 2025, 12:10:55 UTC</i></p>
