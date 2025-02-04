@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 14
 
-"The greatest deception men suffer is from their own opinions."
- \- Leonardo da Vinci
+"Everything has its beauty, but not everyone sees it."
+ \- Confucius
 
 ---
 
-<p align="center"><i>Last updated Tuesday, February 4, 2025, 24:35:19 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, February 4, 2025, 12:13:54 UTC</i></p>
