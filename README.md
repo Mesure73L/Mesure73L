@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 15
 
-"You are the only problem you will ever have and you are the only solution."
- \- Bob Proctor
+"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can&#39;t control."
+ \- Maxime Lagace
 
 ---
 
-<p align="center"><i>Last updated Friday, February 7, 2025, 24:35:58 UTC</i></p>
+<p align="center"><i>Last updated Friday, February 7, 2025, 12:13:11 UTC</i></p>
