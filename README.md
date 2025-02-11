@@ -18,9 +18,9 @@ Here's my stats:
 - 🌟 How many stars I have: 3
 - ⭐ How many stars I gave: 15
 
-"You change the world by being yourself."
- \- Yoko Ono
+"When you judge others, you do not define them, you define yourself."
+ \- Earl Nightingale
 
 ---
 
-<p align="center"><i>Last updated Tuesday, February 11, 2025, 24:35:48 UTC</i></p>
+<p align="center"><i>Last updated Tuesday, February 11, 2025, 12:13:58 UTC</i></p>
